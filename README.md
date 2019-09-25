@@ -1,7 +1,5 @@
 ### CoinBeneAPI
 
-<a href="https://github.com/Coinbene/API-Documents-CHN/wiki/1.0.0-Coinbene-REST-API" target="_blank">现货 API-SPOT-v1-Documents</a>
-
 <a href="https://github.com/Coinbene/API-SPOT-v2-Documents" target="_blank">现货 API-SPOT-v2-Documents</a>
 
 <a href="https://github.com/Coinbene/API-Margin-Documents" target="_blank">杠杆 API-Margin-Documents</a>
